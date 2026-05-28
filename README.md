@@ -8,7 +8,7 @@
 <img width="184" height="184" alt="c6f1804fb1fdafa5c35c93f870105bb747f9cbd7_full" src="https://github.com/user-attachments/assets/1d38cd77-0dd1-4f5f-9d64-f165e9c88457" />
 
 
-### [Compiled Versions](https://github.com/ru-mii/uhara/tree/main/bin) 
+### [Compiled versions](https://github.com/ru-mii/uhara/tree/main/bin) 
 ### [Use examples](https://github.com/LiveSplit/LiveSplit.AutoSplitters/blob/master/LiveSplit.AutoSplitters.xml)   
 
 # Helper tools
